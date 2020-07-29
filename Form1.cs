@@ -61,8 +61,28 @@ namespace Esxv2ModuleCreator
                 File.Create(root + "\\data\\config.lua");
                 toolStripProgressBar1.Value += 10;
                 modulejsonupdate();
+                if (migrationFolder.Checked)
+                {
+                    createmigrationsfolder(root + "\\migrations");
+                }
+                if (sharedFolder.Checked)
+                {
+                    createsharedfolder(root + "\\shared");
+                }
                 MessageBox.Show("All files created.");
             }
+        }
+
+        private void createmigrationsfolder(string root)
+        {
+            Directory.CreateDirectory(root);
+            File.Create(root + "\\0.sql");
+
+        }
+        private void createsharedfolder(string root)
+        {
+            Directory.CreateDirectory(root);
+            filecreate(root);
         }
 
         private void modulejsonupdate()
