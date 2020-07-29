@@ -1,0 +1,12 @@
+G:\esxv2modulecreator\Esxv2ModuleCreator\bin\Debug\Esxv2ModuleCreator.exe.config
+G:\esxv2modulecreator\Esxv2ModuleCreator\bin\Debug\Esxv2ModuleCreator.exe
+G:\esxv2modulecreator\Esxv2ModuleCreator\bin\Debug\Esxv2ModuleCreator.pdb
+G:\esxv2modulecreator\Esxv2ModuleCreator\obj\Debug\Esxv2ModuleCreator.csprojAssemblyReference.cache
+G:\esxv2modulecreator\Esxv2ModuleCreator\obj\Debug\Esxv2ModuleCreator.Form1.resources
+G:\esxv2modulecreator\Esxv2ModuleCreator\obj\Debug\Esxv2ModuleCreator.Properties.Resources.resources
+G:\esxv2modulecreator\Esxv2ModuleCreator\obj\Debug\Esxv2ModuleCreator.csproj.GenerateResource.cache
+G:\esxv2modulecreator\Esxv2ModuleCreator\obj\Debug\Esxv2ModuleCreator.exe
+G:\esxv2modulecreator\Esxv2ModuleCreator\obj\Debug\Esxv2ModuleCreator.pdb
+G:\esxv2modulecreator\Esxv2ModuleCreator\bin\Debug\Newtonsoft.Json.dll
+G:\esxv2modulecreator\Esxv2ModuleCreator\bin\Debug\Newtonsoft.Json.xml
+G:\esxv2modulecreator\Esxv2ModuleCreator\obj\Debug\Esxv2ModuleCreator.csproj.CopyComplete
